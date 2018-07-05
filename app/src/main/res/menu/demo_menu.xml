@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/about"
+        android:title="CardView" />
+    <item
+        android:id="@+id/listview"
+        android:title="ListView" />
+    <item
+        android:id="@+id/recyclerview"
+        android:title="RecyclerView" />
+    <item
+        android:id="@+id/database"
+        android:title="SubmitDetails" />
+    <item
+        android:id="@+id/fragment1"
+        android:title="Fragment1" />
+    <item
+        android:id="@+id/view_pager"
+        android:title="View Pager" />
+    <item
+        android:id="@+id/collapsing_toolbar"
+        android:title="Collapsing Toolbar" />
+    <item
+        android:id="@+id/gmail_menu"
+        android:title="Gmail SignIn" />
+    <item
+        android:id="@+id/volley_menu"
+        android:title="Volley Example" />
+    <item
+        android:id="@+id/shared_preference"
+        android:title="Shared Preferences" />
+
+
+
+</menu>
